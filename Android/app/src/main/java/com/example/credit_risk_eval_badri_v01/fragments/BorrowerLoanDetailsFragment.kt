@@ -79,10 +79,11 @@ class BorrowerLoanDetailsFragment : Fragment() {
     private lateinit var etSelectPdf3:EditText
     private lateinit var etSelectPdf4:EditText
 
-    val USERNAME = "u0nbfzswwp"
-    val PASSWORD = "7kw_tDTpsWWwyeOtSdJmOfj6179YXiiewyQN4WU7CGA"
-    val BASE2_URL = "https://u0ft62dsi9-u0oicgb1o0-connect.us0-aws.kaleido.io/gateways/testinggreylife/0xea3238eb802619629107e6e5f0fd00be0aa132bb/"
-    val kldFromValue2 = "0x0c7d6a7a583b790be7635bef63c9a65327d415d5"
+    val USERNAME = "u0dqjum77g"
+    val PASSWORD = "rn1YiaXD0BLgPEIXjJ_BC9wCuPNGqvGgNTii9DvICl8"
+    val BASE2_URL =
+        "https://u0o3fdi4db-u0nodv7b5h-connect.us0-aws.kaleido.io/gateways/u0vwhx55ck/0x44fdfde741d337aeffbcd158c5804ca5a27420b1/"
+    val kldFromValue2 = "0x9bb31a2db0f94ecb7ec38304c73dea9c034a0095"
     private lateinit var myApi: MyBlockchainApi
 
 
