@@ -12,6 +12,7 @@
         android:background="@drawable/bg_receiver_chat"
         android:padding="8dp"
         android:textSize="16sp"
+        android:layout_marginRight="150dp"
         android:textColor="@color/black"
         android:text="hello, i am eren"/>
 

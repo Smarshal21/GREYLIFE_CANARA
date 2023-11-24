@@ -86,7 +86,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etNoOfDependents"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -107,7 +107,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etIncomeAnnum"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -127,7 +127,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etLoanAmount"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -147,7 +147,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etLoanTerm"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -168,7 +168,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etCIBILScore"
                     android:inputType="number"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
@@ -187,7 +187,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etResedentialAssetsValie"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -207,7 +207,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etCommercialAssetsValue"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:layout_width="match_parent"
                     android:inputType="number"
                     android:layout_height="wrap_content" />
@@ -227,7 +227,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etLuxuryAssetsValue"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -247,7 +247,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etBankAsssetsValue"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:inputType="number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
@@ -267,7 +267,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etEducation"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 

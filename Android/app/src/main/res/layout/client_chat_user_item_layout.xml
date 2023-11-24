@@ -56,9 +56,8 @@
             android:id="@+id/userEmail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@color/myDark"
             android:paddingHorizontal="5dp"
-            android:textColor="@color/myYellow"
+            android:textColor="@color/myDark"
             android:text="user email"/>
 
     </LinearLayout>

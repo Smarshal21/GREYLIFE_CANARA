@@ -14,8 +14,6 @@
         android:orientation="vertical">
 
 
-
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -31,13 +29,15 @@
     <TextView
         android:id="@+id/tvCurrentResult"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
         android:textSize="20sp"
+        android:gravity="center"
         android:layout_marginBottom="20dp"
-        android:textColor="@color/myWhite"
+        android:textColor="@color/black"
         android:layout_marginHorizontal="10dp"
-        android:text="Accepted"/>
+        android:background="@color/myWhite"
+        android:padding="5dp"
+        android:text="Accepted"
+        android:layout_height="wrap_content"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -50,7 +50,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/myNavBarBg"
+            android:background="@color/myWhite"
             android:padding="10dp"
             android:orientation="vertical">
 
@@ -62,12 +62,12 @@
                 android:layout_marginBottom="5dp"
                 android:hint="Result to be Updated"
                 app:boxStrokeColor="@drawable/box_outline_selector"
-                app:hintTextColor="@color/myYellow"
-                android:textColorHint="@color/myWhite">
+                app:hintTextColor="@color/myNavBarBg"
+                android:textColorHint="@color/myNavBarBg">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etUpdateResult"
-                    android:textColor="@color/myYellow"
+                    android:textColor="@color/black"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
@@ -77,26 +77,26 @@
                 android:layout_marginTop="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/myWhite"
+                android:textColor="@color/black"
                 android:textSize="15sp"
                 android:text="To update data type :"/>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/myWhite"
+                android:textColor="@color/black"
                 android:text="Accepted -to accept the loan"/>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/myWhite"
+                android:textColor="@color/black"
                 android:text="Declined - to decline the loan"/>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/myWhite"
+                android:textColor="@color/black"
                 android:text="any non null - to decline the loan"/>
 
             <Button
