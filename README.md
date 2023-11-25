@@ -59,7 +59,7 @@ The Android app has two sides:
 
 
 ## Lender's Side App Screenshots
-
+### Use admin@gmail.com as email and 11111111 as password to get the admin panel access
 ### Chat and Risk Mitigation Screens:
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="510" /> 
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7a781697-f504-4967-8da1-39cda63178ee" width="240" height="510" /> 
